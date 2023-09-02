@@ -6,7 +6,7 @@
 ## Screenshots
 <p>
 <img src="screenshots/Screenshot_1.png" width="19%">
-<img src="screenshots/counter.gif" width="19%">
+<img src="screenshots/counter.gif" width="18.8%">
 </p>
 
 
